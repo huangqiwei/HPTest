@@ -1,0 +1,2 @@
+cd ~/RateDiff/
+java -Djava.ext.dirs=libs -cp classes hptest.RateDiffer
